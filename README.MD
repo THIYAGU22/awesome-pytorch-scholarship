@@ -144,4 +144,6 @@ Assortment of conference and training videos.
 
 * [Chrome extension for speeding up youtube video playack speed](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik)
 
+## Useful tools for dataset :
+* https://www.desmos.com/calculator desmos graph calc
 
